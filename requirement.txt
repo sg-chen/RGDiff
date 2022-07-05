@@ -1,0 +1,12 @@
+wandb
+pandas
+scipy
+numpy
+matplotlib
+fcd_torch
+prettytable
+tensorboard
+axial-positional-embedding
+linear-attention-transformer
+umap-learn
+
